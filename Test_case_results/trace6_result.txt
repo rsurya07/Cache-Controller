@@ -1,0 +1,104 @@
+
+Read from L2               <0x0099ad80>
+Read from L2               <0x0289ad80>
+Read from L2               <0x077abc80>
+Read from L2               <0x009abcc0>
+
+_______________________________________________________________________________
+
+Data Cache 
+
+ind:0x026b6  LRU:01  State: S  tag: 0x00000009    LRU:00  State: S  tag: 0x00000028                                                                              
+ind:0x02af2  LRU:00  State: S  tag: 0x00000077                                                                                                                   
+ind:0x02af3  LRU:00  State: S  tag: 0x00000009                                                                                                                   
+
+
+Instruction Cache 
+
+_______________________________________________________________________________
+
+Write to L2                <0x0099ad80>
+Write to L2                <0x0289ad80>
+Read for Ownership from L2 <0x00331880>
+Write to L2                <0x00331880>
+
+_______________________________________________________________________________
+
+Data Cache 
+
+ind:0x00c62  LRU:00  State: E  tag: 0x00000003                                                                                                                   
+ind:0x026b6  LRU:01  State: M  tag: 0x00000009    LRU:00  State: E  tag: 0x00000028                                                                              
+ind:0x02af2  LRU:00  State: S  tag: 0x00000077                                                                                                                   
+ind:0x02af3  LRU:00  State: S  tag: 0x00000009                                                                                                                   
+
+
+Instruction Cache 
+
+_______________________________________________________________________________
+
+
+_______________________________________________________________________________
+
+Data Cache 
+
+ind:0x00c62  LRU:00  State: E  tag: 0x00000003                                                                                                                   
+ind:0x026b6  LRU:01  State: S  tag: 0x00000009    LRU:00  State: S  tag: 0x00000028                                                                              
+ind:0x02af2  LRU:00  State: S  tag: 0x00000077                                                                                                                   
+ind:0x02af3  LRU:00  State: S  tag: 0x00000009                                                                                                                   
+
+
+Instruction Cache 
+
+_______________________________________________________________________________
+
+
+_______________________________________________________________________________
+
+Data Cache 
+
+ind:0x00c62  LRU:00  State: M  tag: 0x00000003                                                                                                                   
+ind:0x026b6  LRU:00  State: M  tag: 0x00000009    LRU:01  State: S  tag: 0x00000028                                                                              
+ind:0x02af2  LRU:00  State: S  tag: 0x00000077                                                                                                                   
+ind:0x02af3  LRU:00  State: S  tag: 0x00000009                                                                                                                   
+
+
+Instruction Cache 
+
+_______________________________________________________________________________
+
+
+_______________________________________________________________________________
+
+Data Cache 
+
+ind:0x00c62  LRU:00  State: S  tag: 0x00000003                                                                                                                   
+ind:0x026b6  LRU:00  State: S  tag: 0x00000009    LRU:01  State: S  tag: 0x00000028                                                                              
+ind:0x02af2  LRU:00  State: S  tag: 0x00000077                                                                                                                   
+ind:0x02af3  LRU:00  State: S  tag: 0x00000009                                                                                                                   
+
+
+Instruction Cache 
+
+_______________________________________________________________________________
+
+
+
+Number of Data cache reads: 4
+Number of Data cache writes: 6
+Number of Data Cache Hits: 5
+Number of Data Cache Misses: 5
+Total Data Cache requests: 10
+Data Cache Hit ratio: 50.00  
+
+
+Number of Instruction Cache reads: 0
+Number of Instruction Cache Hits: 0
+Number of Instruction Cache Misses: 0
+Instruction Cache Hit ratio: nan 
+
+
+Total Cache Hits: 5
+Total Cache Misses: 5
+Total Cache requests: 10
+Total Cache Hit ratio: 50.00  
+

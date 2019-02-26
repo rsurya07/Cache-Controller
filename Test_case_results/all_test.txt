@@ -1,0 +1,89 @@
+
+Read from L2               <0x000271c0>
+Write to L2                <0x000271c0>
+Read for Ownership from L2 <0x00022500>
+Write to L2                <0x00022500>
+Read for Ownership from L2 <0x005641c0>
+Write to L2                <0x005641c0>
+Read from L2               <0x003245c0>
+Read for Ownership from L2 <0x000001c0>
+Write to L2                <0x000001c0>
+Read for Ownership from L2 <0x000003c0>
+Write to L2                <0x000003c0>
+Write to L2                <0x000271c0>
+Read for Ownership from L2 <0x000005c0>
+Write to L2                <0x000005c0>
+Read from L2               <0x000540c0>
+Read from L2               <0x0004ef00>
+Read from L2               <0x000640c0>
+
+_______________________________________________________________________________
+
+Data Cache 
+
+ind:0x00004  LRU:00  State: E  tag: 0x00000089                                                                                                                   
+ind:0x00007  LRU:00  State: E  tag: 0x00000001    LRU:02  State: S  tag: 0x00001590    LRU:03  State: S  tag: 0x00000c91    LRU:01  State: S  tag: 0x00000000    
+ind:0x0000f  LRU:00  State: E  tag: 0x00000000                                                                                                                   
+
+
+Instruction Cache 
+
+ind:0x00003  LRU:00  State: S  tag: 0x000001d0    LRU:01  State: S  tag: 0x00000190    
+ind:0x0000c  LRU:00  State: S  tag: 0x0000013b                                         
+_______________________________________________________________________________
+
+
+_______________________________________________________________________________
+
+Data Cache 
+
+ind:0x00004  LRU:00  State: E  tag: 0x00000089                                                                                                                   
+ind:0x00007  LRU:00  State: E  tag: 0x00000001                                         LRU:02  State: S  tag: 0x00000c91    LRU:01  State: S  tag: 0x00000000    
+ind:0x0000f  LRU:00  State: E  tag: 0x00000000                                                                                                                   
+
+
+Instruction Cache 
+
+ind:0x00003  LRU:00  State: S  tag: 0x000001d0    LRU:01  State: S  tag: 0x00000190    
+ind:0x0000c  LRU:00  State: S  tag: 0x0000013b                                         
+_______________________________________________________________________________
+
+Read for Ownership from L2 <0x005641c0>
+Write to L2                <0x005641c0>
+
+_______________________________________________________________________________
+
+Data Cache 
+
+ind:0x00004  LRU:00  State: E  tag: 0x00000089                                                                                                                   
+ind:0x00007  LRU:01  State: E  tag: 0x00000001    LRU:00  State: E  tag: 0x00001590    LRU:03  State: S  tag: 0x00000c91    LRU:02  State: S  tag: 0x00000000    
+ind:0x0000f  LRU:00  State: E  tag: 0x00000000                                                                                                                   
+
+
+Instruction Cache 
+
+ind:0x00003  LRU:00  State: S  tag: 0x000001d0    LRU:01  State: S  tag: 0x00000190    
+ind:0x0000c  LRU:00  State: S  tag: 0x0000013b                                         
+_______________________________________________________________________________
+
+
+
+Number of Data cache reads: 2
+Number of Data cache writes: 9
+Number of Data Cache Hits: 3
+Number of Data Cache Misses: 8
+Total Data Cache requests: 11
+Data Cache Hit ratio: 27.27  
+
+
+Number of Instruction cache reads: 5
+Number of Instruction cache Hits: 1
+Number of Instruction cache Misses: 4
+Instruction cache Hit ratio: 20.00 
+
+
+Total cache Hits: 4
+Total cache Misses: 12
+Total cache requests: 16
+Total cache Hit ratio: 25.00  
+

@@ -1,0 +1,125 @@
+
+Read from L2               <0x0099ad80>
+Read from L2               <0x0289ad80>
+
+_______________________________________________________________________________
+
+Data Cache 
+
+
+
+Instruction Cache 
+
+ind:0x026b6  LRU:01  State: S  tag: 0x00000009    LRU:00  State: S  tag: 0x00000028    
+_______________________________________________________________________________
+
+Read from L2               <0x077abc80>
+
+_______________________________________________________________________________
+
+Data Cache 
+
+
+
+Instruction Cache 
+
+ind:0x026b6  LRU:01  State: S  tag: 0x00000009    LRU:00  State: S  tag: 0x00000028    
+ind:0x02af2  LRU:00  State: S  tag: 0x00000077                                         
+_______________________________________________________________________________
+
+Read from L2               <0x009abcc0>
+
+_______________________________________________________________________________
+
+Data Cache 
+
+
+
+Instruction Cache 
+
+ind:0x026b6  LRU:01  State: S  tag: 0x00000009    LRU:00  State: S  tag: 0x00000028    
+ind:0x02af2  LRU:00  State: S  tag: 0x00000077                                         
+ind:0x02af3  LRU:00  State: S  tag: 0x00000009                                         
+_______________________________________________________________________________
+
+
+_______________________________________________________________________________
+
+Data Cache 
+
+
+
+Instruction Cache 
+
+ind:0x026b6  LRU:00  State: S  tag: 0x00000009    LRU:01  State: S  tag: 0x00000028    
+ind:0x02af2  LRU:00  State: S  tag: 0x00000077                                         
+ind:0x02af3  LRU:00  State: S  tag: 0x00000009                                         
+_______________________________________________________________________________
+
+
+_______________________________________________________________________________
+
+Data Cache 
+
+
+
+Instruction Cache 
+
+ind:0x026b6  LRU:01  State: S  tag: 0x00000009    LRU:00  State: S  tag: 0x00000028    
+ind:0x02af2  LRU:00  State: S  tag: 0x00000077                                         
+ind:0x02af3  LRU:00  State: S  tag: 0x00000009                                         
+_______________________________________________________________________________
+
+Read from L2               <0x00331880>
+
+_______________________________________________________________________________
+
+Data Cache 
+
+
+
+Instruction Cache 
+
+ind:0x00c62  LRU:00  State: S  tag: 0x00000003                                         
+ind:0x026b6  LRU:01  State: S  tag: 0x00000009    LRU:00  State: S  tag: 0x00000028    
+ind:0x02af2  LRU:00  State: S  tag: 0x00000077                                         
+ind:0x02af3  LRU:00  State: S  tag: 0x00000009                                         
+_______________________________________________________________________________
+
+Read from L2               <0x00531880>
+
+_______________________________________________________________________________
+
+Data Cache 
+
+
+
+Instruction Cache 
+
+ind:0x00c62  LRU:01  State: S  tag: 0x00000003    LRU:00  State: S  tag: 0x00000005    
+ind:0x026b6  LRU:01  State: S  tag: 0x00000009    LRU:00  State: S  tag: 0x00000028    
+ind:0x02af2  LRU:00  State: S  tag: 0x00000077                                         
+ind:0x02af3  LRU:00  State: S  tag: 0x00000009                                         
+_______________________________________________________________________________
+
+
+
+Number of Data cache reads: 0
+Number of Data cache writes: 0
+Number of Data Cache Hits: 0
+Number of Data Cache Misses: 0
+Total Data Cache requests: 0
+Data Cache Hit ratio: nan  
+
+
+Number of Instruction Cache reads: 8
+Number of Instruction Cache Hits: 2
+Number of Instruction Cache Misses: 6
+Instruction Cache Hit ratio: 25.00 
+
+
+Total Cache Hits: 2
+Total Cache Misses: 6
+Total Cache requests: 8
+Total Cache Hit ratio: 25.00  
+

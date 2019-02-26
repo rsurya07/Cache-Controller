@@ -1,0 +1,22 @@
+
+
+
+Number of Data cache reads: 159631
+Number of Data cache writes: 83030
+Number of Data Cache Hits: 241528
+Number of Data Cache Misses: 1133
+Total Data Cache requests: 242661
+Data Cache Hit ratio: 99.53  
+
+
+Number of Instruction Cache reads: 757341
+Number of Instruction Cache Hits: 754368
+Number of Instruction Cache Misses: 2973
+Instruction Cache Hit ratio: 99.61 
+
+
+Total Cache Hits: 995896
+Total Cache Misses: 4106
+Total Cache requests: 1000002
+Total Cache Hit ratio: 99.59  
+

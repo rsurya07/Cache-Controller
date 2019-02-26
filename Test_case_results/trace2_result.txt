@@ -1,0 +1,180 @@
+
+
+_______________________________________________________________________________
+
+Data Cache 
+
+ind:0x005a8  LRU:00  State: S  tag: 0x00000000                                                                                                                   
+
+
+Instruction Cache 
+
+_______________________________________________________________________________
+
+
+_______________________________________________________________________________
+
+Data Cache 
+
+ind:0x005a8  LRU:00  State: S  tag: 0x00000000                                                                                                                   
+ind:0x00d78  LRU:00  State: E  tag: 0x00000000                                                                                                                   
+
+
+Instruction Cache 
+
+_______________________________________________________________________________
+
+
+_______________________________________________________________________________
+
+Data Cache 
+
+ind:0x005a8  LRU:00  State: E  tag: 0x00000000                                                                                                                   
+ind:0x00d78  LRU:00  State: E  tag: 0x00000000                                                                                                                   
+
+
+Instruction Cache 
+
+_______________________________________________________________________________
+
+
+_______________________________________________________________________________
+
+Data Cache 
+
+ind:0x005a8  LRU:00  State: E  tag: 0x00000000                                                                                                                   
+ind:0x00d78  LRU:00  State: M  tag: 0x00000000                                                                                                                   
+
+
+Instruction Cache 
+
+_______________________________________________________________________________
+
+
+_______________________________________________________________________________
+
+Data Cache 
+
+ind:0x005a8  LRU:00  State: E  tag: 0x00000000                                                                                                                   
+ind:0x00d78  LRU:00  State: M  tag: 0x00000000                                                                                                                   
+
+
+Instruction Cache 
+
+_______________________________________________________________________________
+
+
+_______________________________________________________________________________
+
+Data Cache 
+
+ind:0x003f8  LRU:00  State: S  tag: 0x00000007                                                                                                                   
+ind:0x005a8  LRU:00  State: E  tag: 0x00000000                                                                                                                   
+ind:0x00d78  LRU:00  State: M  tag: 0x00000000                                                                                                                   
+
+
+Instruction Cache 
+
+_______________________________________________________________________________
+
+
+_______________________________________________________________________________
+
+Data Cache 
+
+ind:0x003f8  LRU:00  State: S  tag: 0x00000007                                                                                                                   
+ind:0x005a8  LRU:00  State: E  tag: 0x00000000                                                                                                                   
+ind:0x00d78  LRU:00  State: M  tag: 0x00000000                                                                                                                   
+ind:0x031ce  LRU:00  State: E  tag: 0x00000000                                                                                                                   
+
+
+Instruction Cache 
+
+_______________________________________________________________________________
+
+
+_______________________________________________________________________________
+
+Data Cache 
+
+ind:0x00238  LRU:00  State: E  tag: 0x00000000                                                                                                                   
+ind:0x003f8  LRU:00  State: S  tag: 0x00000007                                                                                                                   
+ind:0x005a8  LRU:00  State: E  tag: 0x00000000                                                                                                                   
+ind:0x00d78  LRU:00  State: M  tag: 0x00000000                                                                                                                   
+ind:0x031ce  LRU:00  State: E  tag: 0x00000000                                                                                                                   
+
+
+Instruction Cache 
+
+_______________________________________________________________________________
+
+
+_______________________________________________________________________________
+
+Data Cache 
+
+ind:0x00238  LRU:00  State: M  tag: 0x00000000                                                                                                                   
+ind:0x003f8  LRU:00  State: S  tag: 0x00000007                                                                                                                   
+ind:0x005a8  LRU:00  State: E  tag: 0x00000000                                                                                                                   
+ind:0x00d78  LRU:00  State: M  tag: 0x00000000                                                                                                                   
+ind:0x031ce  LRU:00  State: E  tag: 0x00000000                                                                                                                   
+
+
+Instruction Cache 
+
+_______________________________________________________________________________
+
+
+_______________________________________________________________________________
+
+Data Cache 
+
+ind:0x00238  LRU:00  State: M  tag: 0x00000000                                                                                                                   
+ind:0x003f8  LRU:00  State: S  tag: 0x00000007                                                                                                                   
+ind:0x005a8  LRU:00  State: M  tag: 0x00000000                                                                                                                   
+ind:0x00d78  LRU:00  State: M  tag: 0x00000000                                                                                                                   
+ind:0x031ce  LRU:00  State: E  tag: 0x00000000                                                                                                                   
+
+
+Instruction Cache 
+
+_______________________________________________________________________________
+
+
+_______________________________________________________________________________
+
+Data Cache 
+
+ind:0x00238  LRU:00  State: M  tag: 0x00000000                                                                                                                   
+ind:0x002a8  LRU:00  State: E  tag: 0x00000000                                                                                                                   
+ind:0x003f8  LRU:00  State: S  tag: 0x00000007                                                                                                                   
+ind:0x005a8  LRU:00  State: M  tag: 0x00000000                                                                                                                   
+ind:0x00d78  LRU:00  State: M  tag: 0x00000000                                                                                                                   
+ind:0x031ce  LRU:00  State: E  tag: 0x00000000                                                                                                                   
+
+
+Instruction Cache 
+
+_______________________________________________________________________________
+
+
+
+Number of Data cache reads: 2
+Number of Data cache writes: 9
+Number of Data Cache Hits: 5
+Number of Data Cache Misses: 6
+Total Data Cache requests: 11
+Data Cache Hit ratio: 45.45  
+
+
+Number of Instruction Cache reads: 0
+Number of Instruction Cache Hits: 0
+Number of Instruction Cache Misses: 0
+Instruction Cache Hit ratio: nan 
+
+
+Total Cache Hits: 5
+Total Cache Misses: 6
+Total Cache requests: 11
+Total Cache Hit ratio: 45.45  
+
